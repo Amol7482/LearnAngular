@@ -10,7 +10,7 @@ export class HomeComponent {
 
   housingLocationsList : HousingLocation[] = [{
     id: 0,
-    name: 'Acme Fresh Start Housing',
+    name: 'Acme Fresh Start Housing1',
     city: 'Chicago',
     state: 'IL',
     photo: '/assets/bernard-hermant-CLKGGwIBTaY-unsplash.jpg',
